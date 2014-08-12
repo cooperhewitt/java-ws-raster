@@ -7,6 +7,10 @@ the content rendered as a PNG image. That's it.
 
 No, really
 
+## IMPORTANT
+
+This code was originally written in 2008 and hasn't been touched since (2014, as of this writing). It should still work since, after all, that is the promise of Java but all the usual caveats apply.
+
 ## Example
 
 	$> curl -v -H 'X-Width: 2048' -H 'Content-Type: image/svg+xml' \
