@@ -76,7 +76,7 @@ There is no logging to speak of.
 
 ## See also
 
-http://xmlgraphics.apache.org/batik/using/transcoder.html#genImagefromSVGDOM
-http://javablog.co.uk/2007/10/27/http-server-api-backport-to-java-5/
-http://www.aaronland.info/weblog/2008/02/05/fox#ws-raster/
-http://www.aaronland.info/papernet/
+* http://xmlgraphics.apache.org/batik/using/transcoder.html#genImagefromSVGDOM
+* http://javablog.co.uk/2007/10/27/http-server-api-backport-to-java-5/
+* http://www.aaronland.info/weblog/2008/02/05/fox#ws-raster/
+* http://www.aaronland.info/papernet/
