@@ -69,6 +69,11 @@ The maximum size of a file that you may POST to ws-raster is 1024kb.
 
 There is no logging to speak of.
 
+## To do
+
+* Update to use something like DropWizard. Maybe?
+* Update to use Maven (or friends)
+
 ## See also
 
 http://xmlgraphics.apache.org/batik/using/transcoder.html#genImagefromSVGDOM
