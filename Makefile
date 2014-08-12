@@ -1,0 +1,2 @@
+run:
+       java -cp ./lib/batik-codec.jar:./lib/batik-awt-util.jar:./lib/batik-script.jar:./lib/batik-anim.jar:./lib/batik-parser.jar:./lib/batik-xml.jar:./lib/batik-ext.jar:./lib/xml-apis-ext.jar:./lib/xml-apis.jar:./lib/batik-svg-dom.jar:./lib/batik-util.jar:./lib/batik-gvt.jar:./lib/batik-css.jar:./lib/batik-bridge.jar:./lib/batik-dom.jar:./lib/batik-transcoder.jar:./lib/openjdk_071012-httpserver.jar:./lib/svg.jar info.aaronland.svg.WsRaster 9956
