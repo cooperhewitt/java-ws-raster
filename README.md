@@ -1,9 +1,6 @@
 # ws-raster
 
-ws-raster is a bare-bones HTTP interface to the Batik
-SVG to PNG transcoder. That is, you send a (binary) POST
-containing an SVG file and ws-raster sends back
-the content rendered as a PNG image. That's it.
+ws-raster is a bare-bones HTTP interface to the Batik SVG to PNG transcoder. That is, you send a (binary) POST containing an SVG file and ws-raster sends back the content rendered as a PNG image. That's it.
 
 No, really
 
